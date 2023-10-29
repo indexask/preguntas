@@ -1,0 +1,58 @@
+a. ¿Qué problemática fue detectada o te fue planteada para el desarrollo del
+proyecto? Para responder, considera qué necesidades existen y quién las
+tiene. (2 Puntos)
+
+
+b. ¿Cómo tu proyecto satisface esa problemática o necesidad? Para responder,
+describe tu aplicación y señala cómo lo que realizaste logra satisfacer la
+necesidad detectada. (4 Puntos)
+
+
+c. ¿Qué conocimientos y habilidades desarrolladas durante la carrera fueron
+claves para realizar este proyecto? Para responder, identifica en los módulos
+anteriores aquellos aspectos técnicos y prácticos que aplicaste para el
+desarrollo de tu aplicación. (2 Punto)
+
+
+Bueno como yo me encargue mas que nada de el backend, las creaciones de api con express fue los que mas valore
+al igual que las consultas a la base de datos con pg ya que lo visto en los desafios anteriores
+y en los modulos te encaminan bastante para lograr el resultado de el proyecto
+
+
+● En la misma presentación, adicionalmente, reflexiona en torno a las siguientes
+preguntas:
+a. ¿Qué dificultades tuviste para desarrollar la aplicación y cómo lo resolviste?
+Para responder, recuerda aquellos tropiezos y frustraciones, piensa qué
+estrategias o apoyos te permitieron salir adelante.(0,5 Puntos)
+
+Uno de los primerios tropiezos y frustraciones fueron conectar el frontend con el backend
+y las verdad es que fue bien tedioso ya que en la mayoria de los desafios de conectar el backend
+con el frontend nos dabana el frontend echo y se hacia mas facil pero al momento de hacer todo de 0 
+cambio mucho la dificultad de todo
+
+Las segunda frustracion que para mi fue la mas grande fue cuando tenia que obeter el id del usuario registrado
+para almacenarlo como clave foranea al crear una publicacion, y la verdad que dsp de leer mucho y reapasar proyectos pasados
+con la ayuda de mis compañero igualmente se llego al resultado esperado
+
+
+b. ¿Qué fue lo que más disfrutaste de desarrollar tu proyecto? Ya sea del
+proceso, del resultado o de aquello que te haya entregado mayor
+satisfacción. (0,5 Puntos)
+
+La verdad es que todo es satisfactorio por que esta echo desde 0 pero lo mas satisfactorio fue cuando empezo a
+agarrar forma como la maqueta que habiamos echo y cuando empezaron a funcionarle cada vez mas vistas y cuando logre agregarle la id
+a las publicaciones como lo mencione en la pregunta anterior 
+y obviamente cuando ya esta el resultado final
+
+
+c. ¿De qué manera crees que la metodología de aprendizaje fue un aporte para
+el resultado obtenido? Para responder, mira hacia atrás y reflexiona sobre tu
+aprendizaje, la metodología de estudio, el trabajo colaborativo, entre otras
+cosas. (0,5 Puntos)
+
+Bueno la metodologia de aprendisaje me parecio bastante bueno claramente por los resultados y en comparacion a mi estudios
+por que yo en paralelo de el bootcamp estoy estudiando analista programador y ya llevo 1 año y en conocimientos podria decir 
+que no es ni la mitad de lo obtenido en 1 año en desafio latam, y sobre el trabajo colaborativo con github te ayuda bastante sobre }
+la realidad de como se trabaja en la programacion y te preapara para lo que se viene
+
+la verdad que estoy muy contento con lo aprendido y valio la pena tanto el dinero como el tiempo invertido en este curso
